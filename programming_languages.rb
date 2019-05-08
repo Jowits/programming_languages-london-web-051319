@@ -24,4 +24,3 @@ languages = {
 }
 
 reformat_languages(languages)
-end
